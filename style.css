@@ -1,0 +1,92 @@
+body {
+    font-family: comic sans ms;
+    background: url(https://i.postimg.cc/QMprZ11B/image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1 {
+    font-size: 40px;
+    color:#164877;
+    background-color: white;
+     box-shadow: 0px 10px 0 0 #8bbee7;
+    border-radius: 20px;}
+
+
+.inf{
+    font-size: 20px;
+    font-weight: 700;
+    color:#113a61;
+}
+
+p{
+    width: 70%;
+     background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 10px 0 0 #4c7ca3;
+}
+
+main{
+   margin-left: 180px;
+}
+
+nav a {
+
+    position: absolute;
+    left: -110px;
+    transition: 0.3s; 
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius:  0 5px 5px 0;
+}
+
+.about {
+    top: 5px;
+    background-color: #4c82af;
+}
+
+.blog {
+    top: 82px;
+    background-color: #8bbee7;
+}
+
+.projects {
+    top: 140px;
+    background-color:#b95959;
+}
+
+.contact {
+    top: 197px;
+    background-color: #ffe346;
+}
+
+nav a:hover{
+    left: 0px;
+}
+
+.if {
+font-size: 20px;
+    font-weight: 700;
+    color:#301161;
+}
+
+.f{
+font-size: 15px;
+    font-weight: 700;
+    color:#000000;
+    font-family: sans-serif;
+}
+
+.uu {
+     width: 450px;
+    height: 300px;
+}
+
+.ff {
+    width: 200px;
+    height: 200px;
+}
